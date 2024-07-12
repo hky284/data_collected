@@ -1,0 +1,3 @@
+export_date,activity_id,activity_name,start_time_local,activity_type,distance_miles,duration_mins,calories,average_hr,steps
+2024-06-28,16149047636,Pilates,2024-06-28T20:14:20.0,pilates,0.0,43.74,108.0,93.0,324
+2024-06-28,16149183785,Treadmill Running,2024-06-28T20:59:16.0,treadmill_running,2.01,22.74,190.0,167.0,3492

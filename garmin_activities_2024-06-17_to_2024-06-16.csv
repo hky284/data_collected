@@ -1,0 +1,7 @@
+export_date,activity_id,activity_name,start_time_local,activity_type,distance_miles,duration_mins,calories,average_hr,steps
+2024-06-08,15812910271,Treadmill Running,2024-06-08T14:18:07.0,treadmill_running,2.01,29.18,216.0,157.0,3952
+2024-06-09,15832663950,Treadmill Running,2024-06-09T19:07:46.0,treadmill_running,1.74,44.02,130.0,104.0,4648
+2024-06-10,15847538625,Treadmill Running,2024-06-10T17:41:30.0,treadmill_running,1.09,16.53,101.0,139.0,2026
+2024-06-10,15847967422,Pilates,2024-06-10T18:18:09.0,pilates,0.0,25.74,75.0,101.0,98
+2024-06-11,15865558436,Treadmill Running,2024-06-11T18:31:58.0,treadmill_running,1.52,20.06,130.0,144.0,2846
+2024-06-13,15900119652,Base,2024-06-13T20:00:52.0,treadmill_running,2.67,35.13,291.0,174.0,5120

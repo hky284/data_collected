@@ -1,0 +1,2 @@
+export_date,max_stress,average_stress,daily_step_goal,sleeping_hours,active_mins,vig_intensity_mins,sedentary_hours,intensity_mins_goal,min_hr,max_hr,intensity_mins
+2024-07-10,90,40,8510,8.6,43.9,17,4.9,150,63,187,0
